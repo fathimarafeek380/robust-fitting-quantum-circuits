@@ -23,8 +23,5 @@ This project demonstrates robust fitting and error mitigation in noisy gate-base
 2. Run the script:  
    `python robust_fitting_quantum.py`
 
-## Author
-Gowtham Royal Vikramadithya
-
 ## License
 MIT License
